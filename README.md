@@ -1,10 +1,10 @@
 # Galaxy Calculator 2
 
 Galaxy Calculator 2 has 4 Calculators built into it:
-1. :milky_way: Galatic Calculator
-2. :confounded: Madness Calculator
-3. :earth_americas: Planet Calculator
-4. :computer: Calculator
+1. Galatic Calculator
+2. Madness Calculator
+3. Planet Calculator
+4. Calculator
 
 I used the project files from my first Galaxy Calculator that is written using Qt QML and JavaScript, 
 this one uses Qt C++, and Widgets, so the documentaion may be wacky till I have a chance to fix all the links and convert them to this new Project,
@@ -30,12 +30,9 @@ Unix: [![Appveyor Build Status](https://ci.appveyor.com/api/projects/status/j7ht
 Windows: [![Appveyor Build Status](https://ci.appveyor.com/api/projects/status/j7htumuwfx31elf6?svg=true)](https://ci.appveyor.com/project/Light-Wizzard/Galaxy-Calculator-2)
 
 ## :package: **Downloads:**
- - :penguin: [Linux](https://github.com/Light-Wizzard/Galaxy-Calculator-2/releases/download/continuous/Galaxy-Calculator-2-x86_64.AppImage)
- - :penguin: :inbox_tray: [Linux ZSync](https://github.com/Light-Wizzard/Galaxy-Calculator-2/releases/download/continuous/Galaxy-Calculator-2-x86_64.AppImage.zsync)
- - :penguin: :outbox_tray: [Linux Installer in work](https://github.com/Light-Wizzard/Galaxy-Calculator-2/releases/download/continuous/Galaxy-Calculator-2-Linux-Installer)
- - :office: [Windows zip](https://github.com/Light-Wizzard/Galaxy-Calculator-2/releases/download/continuous/GalaxyCalculator2-Windows.zip)
- - :office: :outbox_tray: [Windows Installer exe](https://github.com/Light-Wizzard/Galaxy-Calculator-2/releases/download/continuous/GalaxyCalculator2.exe)
- - :apple: [Apple](https://github.com/Light-Wizzard/Galaxy-Calculator-2/releases/download/continuous/Galaxy-Calculator-2.dmg)
+ - [Linux](https://github.com/Light-Wizzard/Galaxy-Calculator-2/releases/download/continuous/Galaxy-Calculator-2-x86_64.AppImage)
+ - [Windows zip](https://github.com/Light-Wizzard/Galaxy-Calculator-2/releases/download/continuous/GalaxyCalculator2-Windows.zip)
+ - [Apple](https://github.com/Light-Wizzard/Galaxy-Calculator-2/releases/download/continuous/Galaxy-Calculator-2.dmg)
 
 The builds are here:
 * [AppVeyor Builds](https://ci.appveyor.com/project/Light-Wizzard/Galaxy-Calculator-2) [![Appveyor Build Status](https://ci.appveyor.com/api/projects/status/j7htumuwfx31elf6?svg=true)](https://ci.appveyor.com/project/Light-Wizzard/Galaxy-Calculator-2)
@@ -51,11 +48,11 @@ but you have to pay for printed books, or the easy of having an ePub delivered t
 Printed Book and ePub Available at:
 
 Lulu
-* :book: :computer: http://www.lulu.com/spotlight/LightWizzard
+* http://www.lulu.com/spotlight/LightWizzard
 
 Amazon
-* :book: Book https://www.amazon.com/Principles-Trinary-Universe-according-Johannes/dp/1795429186/
-* :computer: ePub https://www.amazon.com/Principles-Trinary-Universe-according-Johannes-ebook/dp/B086D24HX9
+* Book https://www.amazon.com/Principles-Trinary-Universe-according-Johannes/dp/1795429186/
+* ePub https://www.amazon.com/Principles-Trinary-Universe-according-Johannes-ebook/dp/B086D24HX9
 
 You can also get it at any major book store, but I would recommend reading it, if you want to know all the details about the Math, you will not find them in the code as much.
 
@@ -100,21 +97,6 @@ but I am looking into using Qt 3D Studio to simulate a simulator.
 For more information see: [Wiki](https://github.com/Light-Wizzard/Galaxy-Calculator-2/wiki)
 
 This is a work in progress, please report any bugs, and comments.
-
-## Screen Shots
-
-![Galaxy Configuration](/doc/images/screenshot-config.png?raw=true "Galaxy Configuration")
-
-![Galaxy Calculator](/doc/images/screenshot-galaxy.png?raw=true "Galaxy Calculator")
-
-![Energy Calculator](/doc/images/screenshot-energy.png?raw=true "Energy Calculator")
-
-![Madness Calculator](/doc/images/screenshot-madness.png?raw=true "Madness Calculator")
-
-![World Calculator](/doc/images/screenshot-world.png?raw=true "Planet Calculator")
-
-![Calculator](/doc/images/screenshot-calc.png?raw=true "Calculator")
-
 
 ## 3rd Party Code
 
